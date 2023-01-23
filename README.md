@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is the place I keep my open-source projects and research codes.
+
+If you have a job offer, feel free to drop me an email.
+
+[linkedin](https://www.linkedin.com/in/gokcehankara/)
+
 <!--
 **gokcehan/gokcehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
